@@ -1,0 +1,2 @@
+model_checkpoint_path: "pointnet_cls_basic1_256_model.ckpt"
+all_model_checkpoint_paths: "pointnet_cls_basic1_256_model.ckpt"
